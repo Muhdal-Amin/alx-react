@@ -1,0 +1,1 @@
+This repository contains my project files for the ALX holberton school React course.
